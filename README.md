@@ -1,2 +1,2 @@
 # ISS_Tracker
-International Space Station Tracker using python language.
+ Track The International Space Station using python .
