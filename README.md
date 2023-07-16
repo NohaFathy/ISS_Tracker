@@ -10,7 +10,7 @@ Paste your longitude in my_lon = float( your longitude goes here ) Line 49 in th
 
 Clone the repository using:
 
-git clone https://github.com/ksaswin/International-Space-Station-Tracker-using-Python.git
+git clone https://github.com/NohaFathy/ISS_Tracker.git
 
 You may need to install a few additional Python libraries for the project.
 Run the following commands in your terminal to install the additional libraries.
