@@ -15,9 +15,9 @@ git clone https://github.com/ksaswin/International-Space-Station-Tracker-using-P
 You may need to install a few additional Python libraries for the project.
 Run the following commands in your terminal to install the additional libraries.
 
-sudo apt install python3-tk
+[sudo apt install python3-tk]
 
-pip3 install urllib3
+[pip3 install urllib3]
 
 
 
